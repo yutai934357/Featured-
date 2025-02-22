@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "test.sln"
+    "test.sln=======dotnet.defaultSolution": "大專題.sln>>>>>>>4cdeffa(Initialcommitwithproper.gitignore)",
+    "dotnet.defaultSolution": "大專題.sln"
 }

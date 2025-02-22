@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 6e90078c524e2c741b305d4f87bc1999
+=======
+guid: c46933d8fd9daa449ba8a2b583df4af4
+>>>>>>> 4cdeffa (Initial commit with proper .gitignore)
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

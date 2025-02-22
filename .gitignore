@@ -1,9 +1,9 @@
+<<<<<<< HEAD
 # Unity 忽略文件
+=======
+>>>>>>> 4cdeffa (Initial commit with proper .gitignore)
 Library/
-Logs/
 Temp/
-Obj/
-*.csproj
-*.sln
-*.user
+/Logs
+/UserSettings
 
