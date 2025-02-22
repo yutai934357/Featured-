@@ -1,0 +1,9 @@
+# Unity 忽略文件
+Library/
+Logs/
+Temp/
+Obj/
+*.csproj
+*.sln
+*.user
+
