@@ -1,0 +1,4 @@
+repository "test/大專題@33262305848632@cloud"
+  path "/"
+    br "/main"
+    co "/main"
